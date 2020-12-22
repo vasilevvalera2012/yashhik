@@ -1,6 +1,6 @@
-login = "YANDEX_LOGIN"
-password = "YANDEX_PASSWORD"
-telegram_bot_token = "TG_BOT_TOKEN"
+= "vasilev.valera2012@yandex.ru"
+password = "71800Ff"
+telegram_bot_token = "1427727759:AAHAByNzz0PbA_vIQRNCkHfIsPh4ahJ6KEE"
 
 # To disable proxy: proxy = None
 proxy = { 
